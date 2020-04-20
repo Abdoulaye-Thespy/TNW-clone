@@ -1,0 +1,22 @@
+@media (max-width: 1300px) {
+  .navig {
+    width: 100%;
+    max-width: none;
+  }
+  main{
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .list-nav p {
+    font-size: 12px;
+  }
+
+  .navig ul li i {
+  font-size: 1.4rem;
+ }
+  .navig ul {
+    display: flex;
+  }
+}

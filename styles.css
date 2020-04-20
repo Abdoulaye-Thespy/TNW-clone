@@ -1,0 +1,100 @@
+
+main {
+  width: 1300px;
+  margin: auto;
+}
+h4 {
+  font-weight: bold;
+  font-size: 22px;
+}
+ h5 {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.navig {
+  background-color: #ff1a1a;
+  width: 1300px;
+  margin: auto;
+}
+
+ .navig ul li i {
+ font-size: 1.8rem;
+ margin-top: -2px;
+}
+
+#rain-logo {
+  height: 1.5rem;
+  width: 1.5rem;
+}
+
+#img-sm {
+  height: 1.5rem;
+  width: 8rem;
+  margin-top: -8px;
+}
+
+.sticky {
+  position: fixed;
+  top: .10;
+  width: 100%;
+  height: 6rem;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.list1{
+  margin-top: -8px;
+}
+
+.display-none {
+  visibility: hidden;
+}
+
+.display-block {
+  height: 1.5rem;
+  width: 8rem;
+}
+
+main {
+  margin: auto;
+  z-index: -1;
+  background-color: #fff;
+}
+
+.first-part img {
+  width: 100%;
+}
+
+#midimg {
+  height: 22rem;
+}
+
+.first-part {
+  margin-left: 0.3rem;
+  margin-right: 0.3rem;
+
+}
+
+.img-pb {
+  border-radius: 50%;
+}
+
+.img-with-text {
+  position: relative;
+}
+
+.badge {
+  background-color: #e6e6e6;
+  position: absolute;
+  bottom: 0;
+}
+
+.solid {
+  border-top: 4px solid #ff4d4d;
+}
+
+#image25 {
+ height: 6rem;
+ width: 100%;
+}
