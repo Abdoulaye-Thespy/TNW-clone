@@ -11,7 +11,6 @@ h4 {
   font-weight: bold;
   font-size: 18px;
 }
-
 .navig {
   background-color: #ff1a1a;
   width: 1300px;
@@ -63,7 +62,7 @@ main {
 }
 
 .first-part img {
-  width: 100%;
+ width: 100%;
 }
 
 #midimg {
@@ -94,7 +93,75 @@ main {
   border-top: 4px solid #ff4d4d;
 }
 
-#image25 {
- height: 6rem;
- width: 100%;
+.image25 {
+ height: 6rem;;
+ width: 1rem;
+}
+
+.double {
+  border-top: 5px solid #bbb;
+}
+
+.after-double {
+  position: relative;
+  height: 5rem;
+}
+
+#text-afd {
+  background-color: #000;
+  color: #fff;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 50%;
+  border-radius: 50%;
+  text-align: center;
+  padding-top: 8px;
+  position: absolute;
+  top: 40px;
+  left: 200px;
+}
+
+#img-afd1 {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 300px;
+  bottom: 60px;
+}
+
+#img-afd2 {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 300px;
+  bottom: 60px;
+}
+
+.double-blue {
+  border-top: 5px solid #3333cc;
+}
+
+.mid-div {
+  width: 80%;
+  margin: auto;
+  background-color: #f2f2f2;
+  padding: 2.8rem;
+}
+
+#N {
+  font-weight: 900;
+  font-size: 20px;
+  background-color: #ff1a1a;
+  color: #fff;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  width: 30px;
+}
+.mid-div p {
+  width: 90px;
+}
+
+.mid-div h3 {
+  width: 150px;
+  font-size: 20px;
 }
