@@ -3,7 +3,8 @@
     width: 100%;
     max-width: none;
   }
-  main{
+
+  main {
     width: 100%;
   }
 }
@@ -14,8 +15,9 @@
   }
 
   .navig ul li i {
-  font-size: 1.4rem;
+    font-size: 1.4rem;
  }
+ 
   .navig ul {
     display: flex;
   }
