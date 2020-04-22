@@ -2,15 +2,21 @@
 main {
   width: 1300px;
   margin: auto;
+  margin: auto;
+  z-index: -1;
+  background-color: #fff;
 }
+
 h4 {
   font-weight: bold;
   font-size: 22px;
 }
- h5 {
+
+h5 {
   font-weight: bold;
   font-size: 18px;
 }
+
 .navig {
   background-color: #ff1a1a;
   width: 1300px;
@@ -42,7 +48,7 @@ h4 {
   z-index: 1;
 }
 
-.list1{
+.list1 {
   margin-top: -8px;
 }
 
@@ -53,12 +59,6 @@ h4 {
 .display-block {
   height: 1.5rem;
   width: 8rem;
-}
-
-main {
-  margin: auto;
-  z-index: -1;
-  background-color: #fff;
 }
 
 .first-part img {
@@ -113,7 +113,6 @@ main {
   width: 2.5rem;
   height: 2.5rem;
   border-radius: 50%;
-  border-radius: 50%;
   text-align: center;
   padding-top: 8px;
   position: absolute;
@@ -157,6 +156,7 @@ main {
   padding-left: 0.5rem;
   width: 30px;
 }
+
 .mid-div p {
   width: 90px;
 }
@@ -164,4 +164,42 @@ main {
 .mid-div h3 {
   width: 150px;
   font-size: 20px;
+}
+
+.middle-div {
+text-align: center;
+margin-top: 1rem;
+}
+
+#N2 {
+  font-weight: 900;
+  font-size: 20px;
+  background-color: #ff1a1a;
+  color: #fff;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  width: 50px;
+  text-align: center;
+}
+
+#N3 {
+  font-weight: 900;
+  font-size: 20px;
+  color: #404040;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  text-align: center;
+}
+
+.second-part img {
+  width: 100%;
+}
+
+.N {
+  font-weight: 900;
+  font-size: 20px;
+  background-color: #ff1a1a;
+  color: #fff;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
 }
