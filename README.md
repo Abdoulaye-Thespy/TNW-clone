@@ -1,9 +1,21 @@
+> This is a responsive cloned webpage of thenewsweek.com
+
 # The news week-clone
 TNW-clone using bootstrap
 
 
-> This is a responsive cloned webpage of thenewsweek.com
 
+
+> This is a visual hierarchy heat-map of the Smashing Magazine home page
+
+![screenshot](./images/11.png)
+![screenshot](./images/12.png)
+![screenshot](./images/13.png)
+![screenshot](./images/14.png)
+![screenshot](./images/15.png)
+![screenshot](./images/16.png)
+![screenshot](./images/17.png)
+![screenshot](./images/18.png)
 ## Built With
 
 - HTML 5
