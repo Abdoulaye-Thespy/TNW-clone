@@ -44,6 +44,10 @@ h5 {
   z-index: 0;
 }
 
+footer ul li {
+  display: inline;
+}
+
 .row-after-nav ul li {
   display: inline;
   margin: 0;
@@ -300,10 +304,6 @@ footer {
   margin: auto;
 }
 
-footer ul li {
-  display: inline;
-}
-
 #lastimg {
   margin-bottom: 1rem;
   margin-right: 1rem;
@@ -337,5 +337,5 @@ footer ul li {
 }
 
 .border2 {
-border-right: 1px solid #737373;
+  border-right: 1px solid #737373;
 }
