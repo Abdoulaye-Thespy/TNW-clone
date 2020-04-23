@@ -7,6 +7,9 @@
   main {
     width: 100%;
   }
+  footer {
+    width: 100%;
+  }
 }
 
 @media (max-width: 480px) {
@@ -17,7 +20,7 @@
   .navig ul li i {
     font-size: 1.4rem;
  }
- 
+
   .navig ul {
     display: flex;
   }
