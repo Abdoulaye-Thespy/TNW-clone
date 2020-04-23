@@ -27,6 +27,51 @@ h5 {
   margin-top: -2px;
 }
 
+.row-after-nav {
+  width: 1300px;
+  margin: auto;
+}
+
+.row-after-nav ul {
+  padding-left: 0;
+  position: relative;
+  bottom: 1rem;
+  margin-left: 0;
+  width: 96%;
+  padding-top: 1rem;
+  border-top-right-radius: 90px;
+  background-color: #fff;
+  z-index: 0;
+}
+
+.row-after-nav ul li {
+  display: inline;
+  margin: 0;
+}
+
+.row-after-nav ul li a {
+  font-size: 15px;
+  font-weight: 900;
+  color: #000;
+  text-decoration: none;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+}
+
+#searchfield {
+  height: 2rem;
+  position: relative;
+  top: 0;
+  width: 6rem;
+  border: none;
+}
+
+#search-icons {
+  position: relative;
+  left: -47px;
+  bottom: -6px;
+}
+
 #rain-logo {
   height: 1.5rem;
   width: 1.5rem;
@@ -169,7 +214,7 @@ h5 {
   margin-top: 1rem;
 }
 
-#N2 {
+.N2 {
   font-weight: 900;
   font-size: 20px;
   background-color: #ff1a1a;
@@ -180,7 +225,7 @@ h5 {
   text-align: center;
 }
 
-#N3 {
+.N3 {
   font-weight: 900;
   font-size: 20px;
   color: #404040;
@@ -237,7 +282,6 @@ h5 {
   background-size: cover;
 }
 
-
 #lbut1 {
   width: 9rem;
   padding-top: 0.5rem;
@@ -257,7 +301,7 @@ footer {
 }
 
 footer ul li {
-display: inline;
+  display: inline;
 }
 
 #lastimg {
@@ -267,11 +311,9 @@ display: inline;
 }
 
 .first-line-footer {
-  margin-top: 1rem;
+  margin-top: 2rem;
   margin-bottom: 0;
   padding-bottom: 0;
-  margin-top: 2rem;
-
 }
 
 .first-line-footer ul li a i {
@@ -289,8 +331,11 @@ display: inline;
 
 .second-line-footer ul li a {
   color: #737373;
-  border-right: 1px solid #737373;
   padding-right: 6px;
   padding-left: 6px;
   text-decoration: none;
+}
+
+.border2 {
+border-right: 1px solid #737373;
 }

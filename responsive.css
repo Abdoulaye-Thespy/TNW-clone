@@ -7,7 +7,11 @@
   main {
     width: 100%;
   }
+
   footer {
+    width: 100%;
+  }
+  .row-after-nav {
     width: 100%;
   }
 }
@@ -19,7 +23,7 @@
 
   .navig ul li i {
     font-size: 1.4rem;
- }
+  }
 
   .navig ul {
     display: flex;
