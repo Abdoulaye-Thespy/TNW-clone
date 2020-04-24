@@ -6,6 +6,10 @@ main {
   background-color: #fff;
 }
 
+body {
+  background-color: #f2f2f2;
+}
+
 h4 {
   font-weight: bold;
   font-size: 22px;
@@ -16,10 +20,16 @@ h5 {
   font-size: 18px;
 }
 
+.intro {
+  font-size: 30px;
+  font-weight: bold;
+}
+
 .navig {
   background-color: #ff1a1a;
   width: 1300px;
   margin: auto;
+  height: auto;
 }
 
 .navig ul li i {
@@ -30,6 +40,8 @@ h5 {
 .row-after-nav {
   width: 1300px;
   margin: auto;
+  background-color: #fff;
+  margin-bottom: 0;
 }
 
 .row-after-nav ul {
@@ -90,10 +102,12 @@ footer ul li {
 .sticky {
   position: fixed;
   top: 10;
+  height: 3rem;
   width: 100%;
-  height: 6rem;
+  height: 3rem;
   overflow: hidden;
   z-index: 1;
+  padding-top: 2rem;
 }
 
 .list1 {
@@ -111,6 +125,20 @@ footer ul li {
 
 .first-part img {
   width: 100%;
+  height: auto;
+  image-rendering: crisp-edges;
+}
+
+.sus {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+  margin-bottom: 1rem;
+}
+
+.sign-in {
+  padding-top: 2px;
 }
 
 #midimg {
@@ -297,9 +325,12 @@ footer ul li {
   padding-bottom: 0.5rem;
 }
 
+.empty-div {
+  height: 250px;
+}
+
 #white-div {
-  height: 280px;
-  margin-top: 1px;
+  height: 270px;
   border: 1px solid #ccc;
   padding-top: 40px;
 }
@@ -343,4 +374,8 @@ footer {
 
 .border2 {
   border-right: 1px solid #737373;
+}
+
+.sec {
+  margin-left: 2rem;
 }
