@@ -25,6 +25,7 @@
   #white-div {
     text-align: center;
   }
+
   #lbut1 {
     margin: auto;
   }
@@ -42,13 +43,12 @@
   #lbut {
     margin: auto;
   }
-
 }
 
 @media (max-width: 990px) {
-   .navig {
-     height: 2.5rem;
-     padding-top: 1rem;
+  .navig {
+    height: 2.5rem;
+    padding-top: 1rem;
    }
 }
 
