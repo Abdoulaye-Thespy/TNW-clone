@@ -379,3 +379,8 @@ footer {
 .sec {
   margin-left: 2rem;
 }
+
+#Layer_1 {
+  fill: #ff1a1a;
+  height: 25px;
+}
