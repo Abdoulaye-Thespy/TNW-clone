@@ -1,0 +1,67 @@
+@media (max-width: 1300px) {
+  .navig {
+    width: 100%;
+    max-width: none;
+  }
+
+  main {
+    width: 100%;
+  }
+
+  footer {
+    width: 100%;
+  }
+
+  .row-after-nav {
+    width: 100%;
+  }
+}
+
+@media (max-width: 755px) {
+  footer .border2 {
+    border: none;
+  }
+
+  #white-div {
+    text-align: center;
+  }
+
+  #lbut1 {
+    margin: auto;
+  }
+
+  #lastdiv2 {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+    padding: 2rem;
+  }
+
+  #lbut {
+    margin: auto;
+  }
+}
+
+@media (max-width: 990px) {
+  .navig {
+    height: 2.5rem;
+    padding-top: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .list-nav p {
+    font-size: 12px;
+  }
+
+  .navig ul li i {
+    font-size: 1.4rem;
+  }
+
+  .navig ul {
+    display: flex;
+  }
+}
